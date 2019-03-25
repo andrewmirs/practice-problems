@@ -20,5 +20,4 @@ function fittingWords(str, words){
 
 var myArray = ['cat','caterpillar','whale','accurate','smile','cactus','cute'];
 
-console.log(fittingWords('cat', myArray));
   
